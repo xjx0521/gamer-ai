@@ -15,7 +15,7 @@ import argparse
 import datetime
 import gc
 
-logging.getLogger("numba").setLevel(logging.WARNING)
+logging.getLogger("gamer").setLevel(logging.WARNING)
 import commons
 import utils
 from data_utils import (
