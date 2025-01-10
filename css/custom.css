@@ -12,7 +12,7 @@
 }
 
 #gpu_code {
-    height: 300px;
+    height: 600px;
     flex-grow: inherit;
     overflow-y: auto;
 }
